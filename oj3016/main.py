@@ -1,9 +1,9 @@
 """seven"""
-import math
 def main():
     """main"""
-    num = int(input())
-    ans = 7 ** 2
-    print(num[-1])
+    x = int(input())
+    result = x % 4
+    pattern = [1, 7, 9, 3]
+    print(pattern[result])
 
 main()
