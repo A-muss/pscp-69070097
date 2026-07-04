@@ -14,14 +14,14 @@ If AI was used for this learning-log-required problem, also complete `ai_reflect
 
 OJ problem number/title:
 
-```2996
-
+```
+2996
 ```
 
 OJ submission ID, if submitted:
 
-```	541514
-
+```	
+541514
 ```
 
 OJ status:
@@ -32,8 +32,8 @@ Pass
 
 Independent time spent on this problem:
 
-```5 minutes
-
+```
+5 minutes
 ```
 
 How to count this time:
@@ -57,8 +57,8 @@ Also explain the input, output, and important constraints.
 
 If you do not fully understand the problem yet, write what you currently understand. Your understanding may be incomplete or incorrect, but you must make a genuine attempt.
 
-```Input text that is 5 letters long and print it in reverse and all letters must be lowercase
-
+```
+Input text that is 5 letters long and print it in reverse and all letters must be lowercase
 ```
 
 ---
@@ -99,8 +99,8 @@ Do not copy AI's explanation.
 
 Do not copy another person's explanation.
 
-```my final plan is the same as my first plan because the first one works 
-
+```
+my final plan is the same as my first plan because the first one works 
 ```
 
 ---
@@ -119,26 +119,26 @@ If the input or output has many lines, write them inside the text blocks.
 
 Why I chose this case:
 
-```it is easy to see that it did reverse or not
-
+```
+it is easy to see that it did reverse or not
 ```
 
 Input:
 
-```abcde
-
+```
+abcde
 ```
 
 Expected output:
 
-```edcba
-
+```
+edcba
 ```
 
 Actual output:
 
-```edcba
-
+```
+edcba
 ```
 
 Result:
@@ -151,26 +151,26 @@ Pass
 
 Why I chose this case:
 
-```because this can check that output are actually lowercase
-
+```
+because this can check that output are actually lowercase
 ```
 
 Input:
 
-```AAAAA
-
+```
+AAAAA
 ```
 
 Expected output:
 
-```aaaaa
-
+```
+aaaaa
 ```
 
 Actual output:
 
-```aaaaa
-
+```
+aaaaa
 ```
 
 Result:
@@ -183,26 +183,26 @@ Pass
 
 Why I chose this case:
 
-```this can check both reverse and lowercase
-
+```
+this can check both reverse and lowercase
 ```
 
 Input:
 
-```MICKY
-
+```
+MICKY
 ```
 
 Expected output:
 
-```ykcim
-
+```
+ykcim
 ```
 
 Actual output:
 
-```ykcim
-
+```
+ykcim
 ```
 
 Result:

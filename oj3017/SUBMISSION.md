@@ -14,14 +14,14 @@ If AI was used for this learning-log-required problem, also complete `ai_reflect
 
 OJ problem number/title:
 
-```3017
-
+```
+3017
 ```
 
 OJ submission ID, if submitted:
 
-```542041
-
+```
+542041
 ```
 
 OJ status:
@@ -34,7 +34,6 @@ Independent time spent on this problem:
 
 ```
 7 minutes
-
 ```
 
 How to count this time:
@@ -79,10 +78,11 @@ This can be rough. It may be incomplete or different from your final solution.
 You may write pseudocode, a flowchart idea, or step-by-step thinking.
 
 ```
-Step 1:
-Step 2:
-Step 3:
-step 4:
+Step 1: receive the food price
+Step 2: calculate the service fee by multipy the food price by 0.1
+Step 3: set the value to not get below 50 and above 1000
+step 4: calculate the VAT by multipy sum of the food price and service fee by 0.07
+step 5: print out the sum of food price, service fee and VAT
 ```
 
 ---
@@ -101,8 +101,8 @@ Do not copy AI's explanation.
 
 Do not copy another person's explanation.
 
-```i change to check the error color first, then check if the 2 color are the same, then check that what are the 2 color that i receive and print out what it mix
-
+```
+i using the first plan i made because it pass all of the testcase
 ```
 
 ---
@@ -121,30 +121,26 @@ If the input or output has many lines, write them inside the text blocks.
 
 Why I chose this case:
 
-```to check if the logic are correct
-
+```
+to check if the logic are correct
 ```
 
 Input:
 
 ```
-Red
-Yellow
-
+560
 ```
 
 Expected output:
 
 ```
-Orange
-
+659.12
 ```
 
 Actual output:
 
 ```
-Orange
-
+659.12
 ```
 
 Result:
@@ -157,30 +153,26 @@ Pass
 
 Why I chose this case:
 
-```to check that what will happen if the input are not primary color
-
+```
+to check if the minimum service fee are 50
 ```
 
 Input:
 
 ```
-Black
-White
-
+50
 ```
 
 Expected output:
 
 ```
-Error
-
+107.00
 ```
 
 Actual output:
 
 ```
-Error
-
+107.00
 ```
 
 Result:
@@ -193,30 +185,26 @@ Pass
 
 Why I chose this case:
 
-```to check that what will happen if the input are the same color
-
+```
+to check if the maximum service fee are 1000
 ```
 
 Input:
 
 ```
-Red
-Red
-
+100000
 ```
 
 Expected output:
 
 ```
-Red
-
+108070.00
 ```
 
 Actual output:
 
 ```
-Red
-
+108070.00
 ```
 
 Result:

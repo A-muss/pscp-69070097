@@ -14,14 +14,14 @@ If AI was used for this learning-log-required problem, also complete `ai_reflect
 
 OJ problem number/title:
 
-```3011
-
+```
+3011
 ```
 
 OJ submission ID, if submitted:
 
-```	542024
-
+```
+542024
 ```
 
 OJ status:
@@ -32,8 +32,8 @@ Pass
 
 Independent time spent on this problem:
 
-```15 minutes
-
+```
+15 minutes
 ```
 
 How to count this time:
@@ -57,8 +57,8 @@ Also explain the input, output, and important constraints.
 
 If you do not fully understand the problem yet, write what you currently understand. Your understanding may be incomplete or incorrect, but you must make a genuine attempt.
 
-```Input 2 colors and print out the color that these 2 colors mix
-
+```
+Input 2 colors and print out the color that these 2 colors mix
 ```
 
 ---
@@ -100,8 +100,8 @@ Do not copy AI's explanation.
 
 Do not copy another person's explanation.
 
-```i change to check the error color first, then check if the 2 color are the same, then check that what are the 2 color that i receive and print out what it mix
-
+```
+i change to check the error color first, then check if the 2 color are the same, then check that what are the 2 color that i receive and print out what it mix
 ```
 
 ---
@@ -120,8 +120,8 @@ If the input or output has many lines, write them inside the text blocks.
 
 Why I chose this case:
 
-```to check if the logic are correct
-
+```
+to check if the logic are correct
 ```
 
 Input:
@@ -129,21 +129,18 @@ Input:
 ```
 Red
 Yellow
-
 ```
 
 Expected output:
 
 ```
 Orange
-
 ```
 
 Actual output:
 
 ```
 Orange
-
 ```
 
 Result:
@@ -156,8 +153,8 @@ Pass
 
 Why I chose this case:
 
-```to check that what will happen if the input are not primary color
-
+```
+to check that what will happen if the input are not primary color
 ```
 
 Input:
@@ -165,21 +162,18 @@ Input:
 ```
 Black
 White
-
 ```
 
 Expected output:
 
 ```
 Error
-
 ```
 
 Actual output:
 
 ```
 Error
-
 ```
 
 Result:
@@ -192,8 +186,8 @@ Pass
 
 Why I chose this case:
 
-```to check that what will happen if the input are the same color
-
+```
+to check that what will happen if the input are the same color
 ```
 
 Input:
@@ -201,21 +195,18 @@ Input:
 ```
 Red
 Red
-
 ```
 
 Expected output:
 
 ```
 Red
-
 ```
 
 Actual output:
 
 ```
 Red
-
 ```
 
 Result:
